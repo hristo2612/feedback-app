@@ -1,12 +1,12 @@
 import Header from './components/Header';
-import Item from './components/Item';
+import FeedBackItem from './components/FeedBackItem';
 
 export default function App() {
   return (
     <>
       <Header title="Feedback App" />
       <div className='container'>
-        <Item />
+        <FeedBackItem />
       </div>
     </>
   );

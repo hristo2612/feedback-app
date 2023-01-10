@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-export default function Item() {
+export default function FeedBackItem() {
   const [rating, setRating] = useState(7);
   const [text, setText] = useState('Text');
 
