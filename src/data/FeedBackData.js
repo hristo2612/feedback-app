@@ -1,4 +1,4 @@
-export const FeedBackData = [
+export const feedBackData = [
   {
     id: 1,
     rating: 10,

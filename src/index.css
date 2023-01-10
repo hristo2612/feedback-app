@@ -23,6 +23,10 @@ ul {
   padding: 0 20px;
 }
 
+.text-center {
+  text-align: center;
+}
+
 header {
   height: 70px;
   width: 100%;
