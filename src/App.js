@@ -1,5 +1,12 @@
+import Header from './components/Header';
+
 export default function App() {
   return (
-    <h1>Hello From The App.js Component</h1>
-  )
+    <>
+      <Header title="Feedback App" />
+      <div className='container'>
+        <h1>My App</h1>
+      </div>
+    </>
+  );
 }
